@@ -1,2 +1,2 @@
 Format:
-<ID Workshop> -- <Label, pour se réperer>
+ID Workshop -- Label, pour se réperer
